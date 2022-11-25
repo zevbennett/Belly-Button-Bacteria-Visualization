@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url("./resources/bellyButton.jpg");
+    background-size: cover;
+  } 
+
+  .container { background-color: rgb(221, 178, 39); } 
+
+  /* .col-md-5 {background-color: rgb(39, 124, 221)}
+  .col-md-12 {background-color: rgb(221, 39, 133)} */
